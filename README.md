@@ -35,5 +35,5 @@ A web-based application for teachers to manage classes, attendance, modules, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/school-management-system.git
+   git clone https://github.com/aboubaker001/Somou-Project.git
    cd school-management-system
